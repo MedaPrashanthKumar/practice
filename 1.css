@@ -1,0 +1,15 @@
+h1{
+    color: aqua;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.one{
+    empty-cells: hide;
+}
+
+.two{
+    empty-cells: show;
+    
+}
