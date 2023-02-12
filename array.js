@@ -39,4 +39,3 @@ function fact(n){
 }
 
 let num = 6;
-r
